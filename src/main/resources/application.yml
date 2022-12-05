@@ -22,4 +22,4 @@ springdoc:
   api-docs:
     groups:
       enabled: true
-  packages-to-scan: com.banquemisr.autoirrigation
+  packages-to-scan: com.autoirrigation
