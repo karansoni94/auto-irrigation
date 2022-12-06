@@ -22,3 +22,4 @@ application would be something like mentioned below:
      }`
 3. Hit sensor-notifications API to see when the sensor was triggered
    - API will continuously provide with the updates for the sensor.
+4. SwaggerUI is accessible at the following URL when you run it without any changes in local: http://localhost:8080/api/swagger-ui/index.html
